@@ -12,9 +12,9 @@ Long-form tinnitus relief / ASMR-style calm audio for focus, sleep, and quieter 
 
 ## Telegram
 
-Channel: **[TinnitusASMRAudio](https://t.me/TinnitusASMRAudio)**
+Channel: **[MrTinnitusASMRAudio](https://t.me/MrTinnitusASMRAudio)**
 
-Daily free tinnitus relief ASMR audio on Telegram (@TinnitusASMRAudio)
+Daily free tinnitus relief ASMR audio on Telegram (@MrTinnitusASMRAudio)
 
 ![Mr.Tinnitus YouTube channel](assets/youtube-channel.png)
 
@@ -50,7 +50,7 @@ This repository and the linked videos are for **relaxation and educational infor
 
 - YouTube: https://www.youtube.com/@Mr.Tinnitus7
 - Telegram search bot (affiliate): https://t.me/jisou?start=_tgr_SrcelRFlNGM1
-- Telegram channel: https://t.me/TinnitusASMRAudio
+- Telegram channel: https://t.me/MrTinnitusASMRAudio
 
 ## License
 
